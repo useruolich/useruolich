@@ -1,6 +1,4 @@
-﻿# Hi, I'm Ali Mirza
-
-MSc student in Transportation Economics (specialization: Statistics) at TU Dresden. I work with regional and spatial data, panel econometrics and reproducible data pipelines in R and Python.
+# Hi
 
 ## Projects
 
